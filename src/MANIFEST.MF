@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.8.0_111
+Built-By: tinylcy
+Premain-Class: main.ObjSizeFetcher
