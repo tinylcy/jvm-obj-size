@@ -8,7 +8,7 @@ Sometimes it is necessary to estimate the size of Java object in JVM, which is h
 
 ## How to use
 
-Please add VM arguments before your application.
+Please add VM arguments before run your application.
 
 ```java
 -javaagent:lib/obj-size-fetcher.jar
